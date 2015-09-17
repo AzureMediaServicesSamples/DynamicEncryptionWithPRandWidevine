@@ -305,9 +305,6 @@ namespace PlayReadyDynamicEncryptAndKeyDeliverySvc
             // Add AssetDelivery Policy to the asset
             asset.DeliveryPolicies.Add(assetDeliveryPolicy);
 
-            Console.WriteLine();
-            Console.WriteLine("Adding Asset Delivery Policy: " +
-                assetDeliveryPolicy.AssetDeliveryPolicyType);
         }
 
 

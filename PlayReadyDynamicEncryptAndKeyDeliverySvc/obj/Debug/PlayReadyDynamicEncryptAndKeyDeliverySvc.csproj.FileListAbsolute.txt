@@ -1,1 +1,0 @@
-C:\Users\yanmf\Documents\GitHub\DynamicEncryptionWithPRandWidevine\PlayReadyDynamicEncryptAndKeyDeliverySvc\bin\Debug\PlayReadyDynamicEncryptAndKeyDeliverySvc.exe.config
