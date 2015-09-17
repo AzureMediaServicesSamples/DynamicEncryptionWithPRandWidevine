@@ -91,7 +91,7 @@ namespace PlayReadyDynamicEncryptAndKeyDeliverySvc
             // to test the smoothStreamURL URL.
             //
             string url = GetStreamingOriginLocator(encodedAsset);
-            Console.WriteLine("Encrypted Smooth Streaming URL: {0}/manifest", url);
+            Console.WriteLine("Encrypted DASH URL: {0}/manifest(format=mpd-time-csf", url);
 
 
             Console.ReadLine();
