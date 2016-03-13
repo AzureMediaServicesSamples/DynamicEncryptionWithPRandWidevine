@@ -1,4 +1,2 @@
 # DynamicEncryptionWithPRandWidevine
-This project contains SDK samples to configure a common encrypted stream with both PlayReady and Widevine
-
-Please refer to my blog for feature details: http://azure.microsoft.com/en-us/blog/azure-media-services-adds-google-widevine-packaging-for-delivering-multi-drm-stream/.
+This sample was moved to [this](https://azure.microsoft.com/documentation/samples/media-services-dotnet-dynamic-encryption-with-drm/) location.
